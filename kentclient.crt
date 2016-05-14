@@ -1,0 +1,97 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 3 (0x3)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CN, ST=SH, L=Shanghai, O=Nokia, OU=Nokia, CN=Nokia CA/name=server/emailAddress=kenthuang@outlook.com
+        Validity
+            Not Before: May 14 11:01:50 2016 GMT
+            Not After : May 12 11:01:50 2026 GMT
+        Subject: C=CN, ST=SH, L=Shanghai, O=Nokia, OU=Nokia, CN=kentclient/name=server/emailAddress=kenthuang@outlook.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ce:14:18:76:c8:57:07:f0:f1:37:55:c2:66:20:
+                    4d:05:3f:90:5c:62:f7:a2:db:b1:2b:39:7b:27:be:
+                    f3:75:1c:da:1d:07:d4:9f:c5:35:29:8e:17:13:00:
+                    e1:e4:3b:a2:af:d0:eb:fd:5a:bb:ab:1e:21:cc:94:
+                    63:24:1c:86:c9:4d:5f:59:58:55:19:ba:d6:f1:13:
+                    29:e4:d7:e6:97:c6:9f:61:a0:fc:4f:f4:67:84:98:
+                    55:b0:30:8f:2d:47:21:cb:c2:c2:0a:05:f9:37:08:
+                    2b:b6:38:95:29:f1:4f:61:31:6c:e9:d1:8a:f6:14:
+                    f7:bd:c7:8d:d9:88:79:67:b3:e4:7a:18:af:30:05:
+                    a0:a7:88:8c:72:4c:9e:01:e9:ad:28:9d:f5:e0:a2:
+                    be:47:36:13:ac:5a:de:a5:02:6e:c2:d5:b5:3b:25:
+                    95:9d:5e:30:6b:0d:10:b6:7e:5d:67:8b:26:1e:86:
+                    cc:5d:a1:2a:39:91:e9:ff:e6:67:7f:43:08:55:2e:
+                    18:57:32:68:8b:bc:c1:e9:1f:41:65:5a:1d:45:68:
+                    6c:7b:68:52:77:c9:d9:e7:39:d5:7a:0f:68:db:d1:
+                    4e:91:4b:5d:25:5b:54:7d:0d:e7:15:74:5a:dc:fb:
+                    63:d2:16:cd:4e:2b:ee:22:b2:af:3d:01:df:76:e2:
+                    e9:ab
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                A5:CB:81:6D:04:11:4A:FB:D6:D9:AC:5C:D8:AC:D2:47:0D:F1:51:0C
+            X509v3 Authority Key Identifier: 
+                keyid:0A:BF:83:6A:5C:54:69:0B:6C:D4:01:E2:30:07:10:11:85:FB:9F:93
+                DirName:/C=CN/ST=SH/L=Shanghai/O=Nokia/OU=Nokia/CN=Nokia CA/name=server/emailAddress=kenthuang@outlook.com
+                serial:8C:0D:F5:3D:02:E3:69:F4
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Subject Alternative Name: 
+                DNS:kentclient
+    Signature Algorithm: sha256WithRSAEncryption
+         a2:5e:d4:01:b0:2c:c7:f0:c0:de:19:3d:48:1b:c2:8a:1a:e5:
+         bd:2b:53:f5:35:a8:c5:11:05:00:c3:5f:51:b8:0a:0c:f3:c5:
+         14:e9:95:63:16:7d:43:56:fd:3b:89:a1:5c:7b:d4:f6:b5:4b:
+         64:8f:6d:47:61:28:36:ff:c8:13:d2:70:c3:e9:87:b1:75:25:
+         8a:a5:ff:e0:d2:d1:fa:ee:6a:3f:fc:9f:89:c9:af:92:b3:6c:
+         98:f7:ab:75:27:03:b1:a3:a8:ec:d6:b4:b6:21:49:13:eb:3a:
+         18:61:4b:ee:d7:c4:57:e4:d4:79:6b:7a:0e:8c:62:83:eb:33:
+         64:40:35:b5:d5:37:c2:da:f1:86:81:4d:d3:ce:00:40:ce:6b:
+         e7:6e:f3:ce:be:32:eb:1c:0f:89:98:44:e5:f7:5c:36:64:29:
+         cb:41:53:82:ec:32:5d:0e:08:0a:73:54:47:93:6d:f8:f8:3f:
+         08:9e:66:53:23:06:0b:39:ab:56:fe:e2:b7:3d:6e:2e:c1:0f:
+         6a:bc:1e:8b:2c:5d:7e:fc:de:89:4a:65:f6:e1:21:71:30:16:
+         69:80:da:57:a5:1a:fb:3f:cc:01:37:f5:20:b6:bd:74:26:e2:
+         f4:63:5c:b3:36:38:f4:93:b1:60:4f:a2:ca:ee:77:c7:50:9a:
+         a3:0a:21:df
+-----BEGIN CERTIFICATE-----
+MIIFFDCCA/ygAwIBAgIBAzANBgkqhkiG9w0BAQsFADCBlzELMAkGA1UEBhMCQ04x
+CzAJBgNVBAgTAlNIMREwDwYDVQQHEwhTaGFuZ2hhaTEOMAwGA1UEChMFTm9raWEx
+DjAMBgNVBAsTBU5va2lhMREwDwYDVQQDEwhOb2tpYSBDQTEPMA0GA1UEKRMGc2Vy
+dmVyMSQwIgYJKoZIhvcNAQkBFhVrZW50aHVhbmdAb3V0bG9vay5jb20wHhcNMTYw
+NTE0MTEwMTUwWhcNMjYwNTEyMTEwMTUwWjCBmTELMAkGA1UEBhMCQ04xCzAJBgNV
+BAgTAlNIMREwDwYDVQQHEwhTaGFuZ2hhaTEOMAwGA1UEChMFTm9raWExDjAMBgNV
+BAsTBU5va2lhMRMwEQYDVQQDEwprZW50Y2xpZW50MQ8wDQYDVQQpEwZzZXJ2ZXIx
+JDAiBgkqhkiG9w0BCQEWFWtlbnRodWFuZ0BvdXRsb29rLmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAM4UGHbIVwfw8TdVwmYgTQU/kFxi96LbsSs5
+eye+83Uc2h0H1J/FNSmOFxMA4eQ7oq/Q6/1au6seIcyUYyQchslNX1lYVRm61vET
+KeTX5pfGn2Gg/E/0Z4SYVbAwjy1HIcvCwgoF+TcIK7Y4lSnxT2ExbOnRivYU973H
+jdmIeWez5HoYrzAFoKeIjHJMngHprSid9eCivkc2E6xa3qUCbsLVtTsllZ1eMGsN
+ELZ+XWeLJh6GzF2hKjmR6f/mZ39DCFUuGFcyaIu8wekfQWVaHUVobHtoUnfJ2ec5
+1XoPaNvRTpFLXSVbVH0N5xV0Wtz7Y9IWzU4r7iKyrz0B33bi6asCAwEAAaOCAWUw
+ggFhMAkGA1UdEwQCMAAwLQYJYIZIAYb4QgENBCAWHkVhc3ktUlNBIEdlbmVyYXRl
+ZCBDZXJ0aWZpY2F0ZTAdBgNVHQ4EFgQUpcuBbQQRSvvW2axc2KzSRw3xUQwwgcwG
+A1UdIwSBxDCBwYAUCr+DalxUaQts1AHiMAcQEYX7n5OhgZ2kgZowgZcxCzAJBgNV
+BAYTAkNOMQswCQYDVQQIEwJTSDERMA8GA1UEBxMIU2hhbmdoYWkxDjAMBgNVBAoT
+BU5va2lhMQ4wDAYDVQQLEwVOb2tpYTERMA8GA1UEAxMITm9raWEgQ0ExDzANBgNV
+BCkTBnNlcnZlcjEkMCIGCSqGSIb3DQEJARYVa2VudGh1YW5nQG91dGxvb2suY29t
+ggkAjA31PQLjafQwEwYDVR0lBAwwCgYIKwYBBQUHAwIwCwYDVR0PBAQDAgeAMBUG
+A1UdEQQOMAyCCmtlbnRjbGllbnQwDQYJKoZIhvcNAQELBQADggEBAKJe1AGwLMfw
+wN4ZPUgbwooa5b0rU/U1qMURBQDDX1G4CgzzxRTplWMWfUNW/TuJoVx71Pa1S2SP
+bUdhKDb/yBPScMPph7F1JYql/+DS0fruaj/8n4nJr5KzbJj3q3UnA7GjqOzWtLYh
+SRPrOhhhS+7XxFfk1Hlreg6MYoPrM2RANbXVN8La8YaBTdPOAEDOa+du886+Musc
+D4mYROX3XDZkKctBU4LsMl0OCApzVEeTbfj4PwieZlMjBgs5q1b+4rc9bi7BD2q8
+HossXX783olKZfbhIXEwFmmA2lelGvs/zAE39SC2vXQm4vRjXLM2OPSTsWBPosru
+d8dQmqMKId8=
+-----END CERTIFICATE-----
